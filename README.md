@@ -1,1 +1,33 @@
-# Trabajo-practico-1..
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF
+8">
+    <title>Mi Primer
+Repositorio</title>
+</head>
+<body>
+    <h1>Mi Primer
+Repositorio</h1>
+    <h2>Integrantes</h2>
+    <p>Lauti</p>
+    <h2>Lo que aprendí
+hoy</h2>
+    <p>
+        Hoy aprendí a crear
+un repositorio con Git,
+hacer commits,
+        modificar archivos y
+subirlos a GitHub.
+    </p>
+    <h2>Herramientas que
+me gustan</h2>
+    <ul>
+        <li>Visual Studio
+Code</li>
+        <li>Git</li>
+        <li>Google Chrome
+(DevTools)</li>
+    </ul>
+</body>
+</html
